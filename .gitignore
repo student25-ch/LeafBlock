@@ -1,0 +1,8 @@
+*.o
+*.exe
+lib/
+include/raylib.h
+include/tcc/
+external/
+output.txt
+.vscode/
