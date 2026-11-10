@@ -10,4 +10,4 @@
 1. 执行 `make`。
 2. 双击 `LeafBlock.exe` 运行。
 
-Copyright (C) 2024 杨子桐. Licensed under the AGPL-3.0 License.
+Copyright (C) 2026 杨子桐. Licensed under the AGPL-3.0 License.
